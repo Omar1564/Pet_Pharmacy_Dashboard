@@ -33,6 +33,7 @@ An interactive Power BI dashboard that tracks inventory, products and suppliers 
 
 ## Screenshots
 Add the page screenshots in a `screenshots/` folder and link them here:
+- `screenshots/main.png`
 - `screenshots/overview.png`
 - `screenshots/suppliers.png`
 - `screenshots/products.png`
