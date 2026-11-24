@@ -33,11 +33,11 @@ An interactive Power BI dashboard that tracks inventory, products and suppliers 
 
 ## Dashboard
 
-(main.png)
-(overview.png)
-(products.png)
-(suppliers.png)
-(drill-through.png)
+![https://app.powerbi.com/groups/me/reports/5580170e-cfad-4f23-9fb9-6814d4b2857e/bbeb3fbdff51efa99261?experience=power-bi](main.png)
+![https://app.powerbi.com/groups/me/reports/5580170e-cfad-4f23-9fb9-6814d4b2857e/bbeb3fbdff51efa99261?experience=power-bi](overview.png)
+![https://app.powerbi.com/groups/me/reports/5580170e-cfad-4f23-9fb9-6814d4b2857e/bbeb3fbdff51efa99261?experience=power-bi](products.png)
+![https://app.powerbi.com/groups/me/reports/5580170e-cfad-4f23-9fb9-6814d4b2857e/bbeb3fbdff51efa99261?experience=power-bi](suppliers.png)
+![https://app.powerbi.com/groups/me/reports/5580170e-cfad-4f23-9fb9-6814d4b2857e/bbeb3fbdff51efa99261?experience=power-bi](drill-through.png)
 
 ## Possible next steps
 - Add stock-out and reorder-level alerts
