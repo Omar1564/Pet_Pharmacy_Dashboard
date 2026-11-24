@@ -31,13 +31,13 @@ An interactive Power BI dashboard that tracks inventory, products and suppliers 
 2. Open it with Power BI Desktop (free).
 3. Use the supplier and product slicers on the left to filter every page.
 
-## Screenshots
-Add the page screenshots in a `screenshots/` folder and link them here:
-- `screenshots/main.png`
-- `screenshots/overview.png`
-- `screenshots/suppliers.png`
-- `screenshots/products.png`
-- `screenshots/drill-through.png`
+## Dashboard
+
+(main.png)
+(overview.png)
+(products.png)
+(suppliers.png)
+(drill-through.png)
 
 ## Possible next steps
 - Add stock-out and reorder-level alerts
